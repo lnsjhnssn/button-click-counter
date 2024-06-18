@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/button-click-counter/static/css/main.f855e6bc.css",
+    "main.js": "/button-click-counter/static/js/main.9eda35cc.js",
+    "static/js/453.0d606c85.chunk.js": "/button-click-counter/static/js/453.0d606c85.chunk.js",
+    "index.html": "/button-click-counter/index.html",
+    "main.f855e6bc.css.map": "/button-click-counter/static/css/main.f855e6bc.css.map",
+    "main.9eda35cc.js.map": "/button-click-counter/static/js/main.9eda35cc.js.map",
+    "453.0d606c85.chunk.js.map": "/button-click-counter/static/js/453.0d606c85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9eda35cc.js"
+  ]
+}
